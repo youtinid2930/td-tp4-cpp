@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1712862097 source:c:\users\hp\desktop\tp-td4\formes\main.cpp
+	<iostream>
+	"forme.h"
+	"cercle.h"
+
+1712862342 c:\users\hp\desktop\tp-td4\formes\forme.h
+
+1712862195 c:\users\hp\desktop\tp-td4\formes\cercle.h
+	"forme.h"
+

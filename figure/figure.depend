@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1712963503 source:c:\users\hp\desktop\tp-td4\figure\main.cpp
+	<iostream>
+	"dessin.h"
+	"cercle.h"
+	"caree.h"
+	"triangle.h"
+
+1713041304 c:\users\hp\desktop\tp-td4\figure\dessin.h
+	"figure.h"
+	<vector>
+	"cercle.h"
+	"caree.h"
+	"triangle.h"
+
+1712957129 c:\users\hp\desktop\tp-td4\figure\cercle.h
+	"figure.h"
+
+1713041231 c:\users\hp\desktop\tp-td4\figure\figure.h
+	<iostream>
+
+1713041160 c:\users\hp\desktop\tp-td4\figure\caree.h
+	"figure.h"
+
+1712957506 c:\users\hp\desktop\tp-td4\figure\triangle.h
+	"figure.h"
+

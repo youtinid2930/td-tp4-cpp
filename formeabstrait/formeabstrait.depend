@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1712867285 source:c:\users\hp\desktop\tp-td4\formeabstrait\main.cpp
+	<iostream>
+	"cercle.h"
+	"triangle.h"
+
+1712867142 source:c:\users\hp\desktop\tp-td4\formeabstrait\triangle.cpp
+	"triangle.h"
+
+1712867142 c:\users\hp\desktop\tp-td4\formeabstrait\triangle.h
+	"forme.h"
+
+1712867253 c:\users\hp\desktop\tp-td4\formeabstrait\forme.h
+	<iostream>
+
+1712867142 source:c:\users\hp\desktop\tp-td4\formeabstrait\cercle.cpp
+	"cercle.h"
+	"cmath"
+
+1712867285 c:\users\hp\desktop\tp-td4\formeabstrait\cercle.h
+	"forme.h"
+
